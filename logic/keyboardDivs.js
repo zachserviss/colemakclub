@@ -164,7 +164,7 @@ var orthoDivs = `
 		<div class="key" id='KeyU'><span class="letter"></span></div>
 		<div class="key" id='KeyI'><span class="letter"></span></div>
 		<div class="key" id='KeyO'><span class="letter"></span></div>
-		<div class="key" id='KeyP'><span class="letter"></span></div>
+		<div class="key" id='Quote'><span class="letter"></span></div>
 		<div class="twou"><span class="letter"></span></div>
 	</div>
 	<div class=row>
@@ -203,7 +203,7 @@ var orthoDivs = `
 		<div class="oneu"><span class="letter"></span></div>
 		<div class="key"><span class="letter"></span></div>
 		<div class="key"><span class="letter"></span></div>
-		<div class="key"><span class="letter"></span></div>
+		<div class="key" id="Minus"><span class="letter"></span></div>
 		<div class="oneu"><span class="letter"></span></div>
 		<div class="key"><span class="letter"></span></div>
 		<div class="key"><span class="letter"></span></div>
