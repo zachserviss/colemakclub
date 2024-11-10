@@ -15,3 +15,6 @@ Colemak Club is currently hosted on my website at [gnusenpai.net](https://gnusen
 ### Plans
 * Visual overhaul
 * Color-coded fingermap
+
+### To Stast
+* npx serve .

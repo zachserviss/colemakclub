@@ -393,7 +393,7 @@ punctuationModeButton.addEventListener('click', ()=> {
 	console.log('punctuation mode toggled');
 	// if turning punctuation mode on
 	if(punctuation == "") {
-		punctuation = "'.-";
+		punctuation = "',.-";
 	}else { // if turning punctuation mode off
 		punctuation = "";
 	}

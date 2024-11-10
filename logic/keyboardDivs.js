@@ -201,12 +201,12 @@ var orthoDivs = `
 		<div class="twou"><span class="letter"></span></div>
 		<div class="oneu"><span class="letter"></span></div>
 		<div class="oneu"><span class="letter"></span></div>
-		<div class="key"><span class="letter"></span></div>
-		<div class="key"><span class="letter"></span></div>
+		<div class="key" id="Escape"><span class="letter"></span></div>
+		<div class="key" id="Space"><span class="letter"></span></div>
 		<div class="key" id="Minus"><span class="letter"></span></div>
 		<div class="oneu"><span class="letter"></span></div>
-		<div class="key"><span class="letter"></span></div>
-		<div class="key"><span class="letter"></span></div>
+		<div class="key" id="Enter"><span class="letter"></span></div>
+		<div class="key" id="Backspace"><span class="letter"></span></div>
 		<div class="key"><span class="letter"></span></div>
 		<div class="oneu"><span class="letter"></span></div>
 		<div class="oneu"><span class="letter"></span></div>
